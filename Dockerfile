@@ -1,1 +1,1 @@
-FROM quay.io/bitriseio/docker-bitrise-base:latest
+FROM quay.io/bitriseio/bitrise-base:latest
